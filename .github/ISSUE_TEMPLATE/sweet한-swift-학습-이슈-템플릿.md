@@ -1,7 +1,7 @@
 ---
 name: Sweet한 Swift 학습 이슈 템플릿
 about: "[\U0001F34EN회차] 제목"
-title: ''
+title: "[\U0001F34EN회차] 제목"
 labels: "\U0001FA75 예빈"
 assignees: leeyebeen-dev
 
